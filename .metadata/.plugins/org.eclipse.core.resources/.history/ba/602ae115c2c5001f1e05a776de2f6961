@@ -1,0 +1,58 @@
+package Day2;
+
+import static io.restassured.RestAssured.*;
+import static org.hamcrest.Matcher.*;
+
+import java.util.HashMap;
+
+import org.testng.annotations.Test;
+
+import static io.restassured.matcher.RestAssuredMatchers.*;
+
+
+
+
+
+public class DifferentWaysToCreate_PostBody {
+
+	/*
+1.	HashMap
+2.	Using org.json
+3.	Using POJO class(plain old java object)
+4.	Using external json file
+
+	 */
+	
+	@Test
+	public void testPostUsingHashMap()
+	
+	{
+		
+		
+		HashMap map= new HashMap();
+		
+		map.put("Name", "sonu");
+		
+		map.put("Location","Goa");
+		map.put("Mobile no", "8287812735");
+		
+		String courseArr[]= {"c","java"};
+		
+		map.put("courses",courseArr);
+		
+		given()
+		.contentType("application/json")
+		.when()
+		.post("http://localhost:3000/jsondata")
+		.then()
+		  .statusCode(201)
+		  
+		  
+		  .log().all()
+		  
+		;
+		
+	}
+	
+	
+}

@@ -1,0 +1,35 @@
+package Day1;
+
+import org.testng.annotations.Test;
+
+import static io.restassured.RestAssured.*;
+import static org.hamcrest.Matcher.*;
+import static io.restassured.matcher.RestAssuredMatchers.*;
+/*
+given()
+content type, set cookies , add auth, add param, set headers info sends in given section
+
+when()
+get, post, put, delete.
+
+then();
+validate status code, extract response, extract headers cookies and response body
+
+*/
+public class HTTPRequest {
+
+	@Test
+	void getuser() {
+		
+		given()
+		
+		when()
+		
+		then();
+		
+	}
+	
+	
+	
+	
+}

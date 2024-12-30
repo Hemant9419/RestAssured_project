@@ -1,0 +1,319 @@
+2024-12-28 14:30:46,225 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-28 14:32:18,587 [Worker-3: Creating project "API_Automation"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: API_Automation:API_Automation:0.0.1-SNAPSHOT @ D:\RestAssured_Project\API_Automation\pom.xml.
+2024-12-28 14:32:19,447 [Worker-3: Creating project "API_Automation"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /API_Automation/src/main/java
+2024-12-28 14:32:19,450 [Worker-3: Creating project "API_Automation"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /API_Automation/src/main/resources
+2024-12-28 14:32:19,452 [Worker-3: Creating project "API_Automation"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /API_Automation/src/test/java
+2024-12-28 14:32:19,453 [Worker-3: Creating project "API_Automation"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /API_Automation/src/test/resources
+2024-12-28 14:32:21,438 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 14:32:21,445 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 14:32:21,448 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 14:32:21,449 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 14:55:23,411 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: API_Automation:API_Automation:0.0.1-SNAPSHOT @ D:\RestAssured_Project\API_Automation\pom.xml.
+2024-12-28 14:55:25,383 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/java-json-tools/btf/1.3/btf-1.3.jar
+2024-12-28 14:55:25,385 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/java-json-tools/msg-simple/1.2/msg-simple-1.2.jar
+2024-12-28 14:55:25,467 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/java-json-tools/uri-template/0.10/uri-template-0.10.jar
+2024-12-28 14:55:25,471 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/java-json-tools/json-schema-core/1.2.14/json-schema-core-1.2.14.jar
+2024-12-28 14:55:25,472 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/28.2-android/guava-28.2-android.jar
+2024-12-28 14:55:25,529 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/java-json-tools/btf/1.3/btf-1.3.jar
+2024-12-28 14:55:25,605 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mozilla/rhino/1.7.7.2/rhino-1.7.7.2.jar
+2024-12-28 14:55:25,613 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/java-json-tools/msg-simple/1.2/msg-simple-1.2.jar
+2024-12-28 14:55:25,882 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/mail/mailapi/1.6.2/mailapi-1.6.2.jar
+2024-12-28 14:55:26,845 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/java-json-tools/uri-template/0.10/uri-template-0.10.jar
+2024-12-28 14:55:27,233 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.10.5/joda-time-2.10.5.jar
+2024-12-28 14:55:27,254 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/java-json-tools/json-schema-core/1.2.14/json-schema-core-1.2.14.jar
+2024-12-28 14:55:27,432 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/libphonenumber/libphonenumber/8.11.1/libphonenumber-8.11.1.jar
+2024-12-28 14:55:28,325 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/mail/mailapi/1.6.2/mailapi-1.6.2.jar
+2024-12-28 14:55:28,426 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
+2024-12-28 14:55:29,082 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
+2024-12-28 14:55:29,515 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/libphonenumber/libphonenumber/8.11.1/libphonenumber-8.11.1.jar
+2024-12-28 14:55:29,958 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.10.5/joda-time-2.10.5.jar
+2024-12-28 14:55:30,713 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mozilla/rhino/1.7.7.2/rhino-1.7.7.2.jar
+2024-12-28 14:55:31,281 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/28.2-android/guava-28.2-android.jar
+2024-12-28 14:55:36,462 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/rest-assured/rest-assured/5.5.0/rest-assured-5.5.0-sources.jar
+2024-12-28 14:55:36,474 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 14:55:36,501 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 14:55:36,506 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 14:55:36,507 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 14:55:36,925 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/rest-assured/rest-assured/5.5.0/rest-assured-5.5.0-sources.jar
+2024-12-28 14:55:36,930 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.rest-assured:rest-assured:5.5.0
+2024-12-28 14:55:37,079 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/groovy/groovy/4.0.22/groovy-4.0.22-sources.jar
+2024-12-28 14:55:38,490 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/groovy/groovy/4.0.22/groovy-4.0.22-sources.jar
+2024-12-28 14:55:38,505 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.groovy:groovy:4.0.22
+2024-12-28 14:55:38,774 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-xml/4.0.22/groovy-xml-4.0.22-sources.jar
+2024-12-28 14:55:38,922 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-xml/4.0.22/groovy-xml-4.0.22-sources.jar
+2024-12-28 14:55:38,950 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.groovy:groovy-xml:4.0.22
+2024-12-28 14:55:39,134 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13-sources.jar
+2024-12-28 14:55:39,592 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13-sources.jar
+2024-12-28 14:55:39,612 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpclient:4.5.13
+2024-12-28 14:55:39,814 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13-sources.jar
+2024-12-28 14:55:40,279 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13-sources.jar
+2024-12-28 14:55:40,287 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpcore:4.4.13
+2024-12-28 14:55:40,554 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2024-12-28 14:55:40,690 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2024-12-28 14:55:40,695 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2024-12-28 14:55:40,840 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11-sources.jar
+2024-12-28 14:55:41,170 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11-sources.jar
+2024-12-28 14:55:41,180 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.11
+2024-12-28 14:55:41,430 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13-sources.jar
+2024-12-28 14:55:41,572 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13-sources.jar
+2024-12-28 14:55:41,590 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpmime:4.5.13
+2024-12-28 14:55:41,769 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest/2.2/hamcrest-2.2-sources.jar
+2024-12-28 14:55:41,885 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest/2.2/hamcrest-2.2-sources.jar
+2024-12-28 14:55:41,890 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest:2.2
+2024-12-28 14:55:42,039 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1-sources.jar
+2024-12-28 14:55:42,158 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1-sources.jar
+2024-12-28 14:55:42,163 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.ccil.cowan.tagsoup:tagsoup:1.2.1
+2024-12-28 14:55:42,395 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/rest-assured/xml-path/5.5.0/xml-path-5.5.0-sources.jar
+2024-12-28 14:55:42,492 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/rest-assured/xml-path/5.5.0/xml-path-5.5.0-sources.jar
+2024-12-28 14:55:42,496 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.rest-assured:xml-path:5.5.0
+2024-12-28 14:55:42,715 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11-sources.jar
+2024-12-28 14:55:43,282 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11-sources.jar
+2024-12-28 14:55:43,286 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.11
+2024-12-28 14:55:43,514 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/rest-assured/json-path/5.5.0/json-path-5.5.0-sources.jar
+2024-12-28 14:55:43,591 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/rest-assured/json-path/5.5.0/json-path-5.5.0-sources.jar
+2024-12-28 14:55:43,595 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.rest-assured:json-path:5.5.0
+2024-12-28 14:55:43,793 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-json/4.0.22/groovy-json-4.0.22-sources.jar
+2024-12-28 14:55:44,073 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-json/4.0.22/groovy-json-4.0.22-sources.jar
+2024-12-28 14:55:44,077 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.groovy:groovy-json:4.0.22
+2024-12-28 14:55:44,237 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/rest-assured/rest-assured-common/5.5.0/rest-assured-common-5.5.0-sources.jar
+2024-12-28 14:55:44,311 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/rest-assured/rest-assured-common/5.5.0/rest-assured-common-5.5.0-sources.jar
+2024-12-28 14:55:44,316 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.rest-assured:rest-assured-common:5.5.0
+2024-12-28 14:55:44,520 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/json/json/20240303/json-20240303-sources.jar
+2024-12-28 14:55:44,639 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/json/json/20240303/json-20240303-sources.jar
+2024-12-28 14:55:44,644 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.json:json:20240303
+2024-12-28 14:55:44,812 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.11.0/gson-2.11.0-sources.jar
+2024-12-28 14:55:45,043 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.11.0/gson-2.11.0-sources.jar
+2024-12-28 14:55:45,047 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.11.0
+2024-12-28 14:55:45,229 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0-sources.jar
+2024-12-28 14:55:45,359 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0-sources.jar
+2024-12-28 14:55:45,380 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.errorprone:error_prone_annotations:2.27.0
+2024-12-28 14:55:45,649 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/scribejava/scribejava-apis/8.3.3/scribejava-apis-8.3.3-sources.jar
+2024-12-28 14:55:45,800 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/scribejava/scribejava-apis/8.3.3/scribejava-apis-8.3.3-sources.jar
+2024-12-28 14:55:45,805 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.scribejava:scribejava-apis:8.3.3
+2024-12-28 14:55:45,956 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/scribejava/scribejava-core/8.3.3/scribejava-core-8.3.3-sources.jar
+2024-12-28 14:55:46,063 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/scribejava/scribejava-core/8.3.3/scribejava-core-8.3.3-sources.jar
+2024-12-28 14:55:46,068 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.scribejava:scribejava-core:8.3.3
+2024-12-28 14:55:46,295 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/scribejava/scribejava-java8/8.3.3/scribejava-java8-8.3.3-sources.jar
+2024-12-28 14:55:46,441 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/scribejava/scribejava-java8/8.3.3/scribejava-java8-8.3.3-sources.jar
+2024-12-28 14:55:46,480 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.scribejava:scribejava-java8:8.3.3
+2024-12-28 14:55:46,632 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.14.0/jackson-databind-2.14.0-sources.jar
+2024-12-28 14:55:47,255 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.14.0/jackson-databind-2.14.0-sources.jar
+2024-12-28 14:55:47,326 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.14.0
+2024-12-28 14:55:47,467 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.14.0/jackson-annotations-2.14.0-sources.jar
+2024-12-28 14:55:47,553 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.14.0/jackson-annotations-2.14.0-sources.jar
+2024-12-28 14:55:47,561 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.14.0
+2024-12-28 14:55:47,705 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.14.0/jackson-core-2.14.0-sources.jar
+2024-12-28 14:55:47,996 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.14.0/jackson-core-2.14.0-sources.jar
+2024-12-28 14:55:48,007 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.14.0
+2024-12-28 14:55:48,153 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/java-json-tools/json-schema-validator/2.2.14/json-schema-validator-2.2.14-sources.jar
+2024-12-28 14:55:48,397 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/java-json-tools/json-schema-validator/2.2.14/json-schema-validator-2.2.14-sources.jar
+2024-12-28 14:55:48,402 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.java-json-tools:json-schema-validator:2.2.14
+2024-12-28 14:55:48,559 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/28.2-android/guava-28.2-android-sources.jar
+2024-12-28 14:55:49,169 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/28.2-android/guava-28.2-android-sources.jar
+2024-12-28 14:55:49,182 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:guava:28.2-android
+2024-12-28 14:55:49,340 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-compat-qual/2.5.5/checker-compat-qual-2.5.5-sources.jar
+2024-12-28 14:55:49,523 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/checkerframework/checker-compat-qual/2.5.5/checker-compat-qual-2.5.5-sources.jar
+2024-12-28 14:55:49,529 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.checkerframework:checker-compat-qual:2.5.5
+2024-12-28 14:55:49,714 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/java-json-tools/jackson-coreutils-equivalence/1.0/jackson-coreutils-equivalence-1.0-sources.jar
+2024-12-28 14:55:49,909 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/java-json-tools/jackson-coreutils-equivalence/1.0/jackson-coreutils-equivalence-1.0-sources.jar
+2024-12-28 14:55:49,933 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.java-json-tools:jackson-coreutils-equivalence:1.0
+2024-12-28 14:55:50,107 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/java-json-tools/jackson-coreutils/2.0/jackson-coreutils-2.0-sources.jar
+2024-12-28 14:55:50,176 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/java-json-tools/jackson-coreutils/2.0/jackson-coreutils-2.0-sources.jar
+2024-12-28 14:55:50,188 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.java-json-tools:jackson-coreutils:2.0
+2024-12-28 14:55:50,315 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/java-json-tools/msg-simple/1.2/msg-simple-1.2-sources.jar
+2024-12-28 14:55:50,550 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/java-json-tools/msg-simple/1.2/msg-simple-1.2-sources.jar
+2024-12-28 14:55:50,553 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.java-json-tools:msg-simple:1.2
+2024-12-28 14:55:50,873 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/java-json-tools/btf/1.3/btf-1.3-sources.jar
+2024-12-28 14:55:51,033 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/java-json-tools/btf/1.3/btf-1.3-sources.jar
+2024-12-28 14:55:51,086 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.java-json-tools:btf:1.3
+2024-12-28 14:55:51,249 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/java-json-tools/json-schema-core/1.2.14/json-schema-core-1.2.14-sources.jar
+2024-12-28 14:55:51,479 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/java-json-tools/json-schema-core/1.2.14/json-schema-core-1.2.14-sources.jar
+2024-12-28 14:55:51,484 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.java-json-tools:json-schema-core:1.2.14
+2024-12-28 14:55:51,700 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/java-json-tools/uri-template/0.10/uri-template-0.10-sources.jar
+2024-12-28 14:55:51,846 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/java-json-tools/uri-template/0.10/uri-template-0.10-sources.jar
+2024-12-28 14:55:51,856 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.java-json-tools:uri-template:0.10
+2024-12-28 14:55:52,047 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mozilla/rhino/1.7.7.2/rhino-1.7.7.2-sources.jar
+2024-12-28 14:55:52,645 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mozilla/rhino/1.7.7.2/rhino-1.7.7.2-sources.jar
+2024-12-28 14:55:52,650 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mozilla:rhino:1.7.7.2
+2024-12-28 14:55:52,916 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/mail/mailapi/1.6.2/mailapi-1.6.2-sources.jar
+2024-12-28 14:55:53,272 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/mail/mailapi/1.6.2/mailapi-1.6.2-sources.jar
+2024-12-28 14:55:53,284 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.mail:mailapi:1.6.2
+2024-12-28 14:55:54,676 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.10.5/joda-time-2.10.5-sources.jar
+2024-12-28 14:55:55,312 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.10.5/joda-time-2.10.5-sources.jar
+2024-12-28 14:55:55,321 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for joda-time:joda-time:2.10.5
+2024-12-28 14:55:55,596 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/libphonenumber/libphonenumber/8.11.1/libphonenumber-8.11.1-sources.jar
+2024-12-28 14:55:55,953 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/libphonenumber/libphonenumber/8.11.1/libphonenumber-8.11.1-sources.jar
+2024-12-28 14:55:55,991 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.googlecode.libphonenumber:libphonenumber:8.11.1
+2024-12-28 14:55:56,110 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4-sources.jar
+2024-12-28 14:55:56,303 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4-sources.jar
+2024-12-28 14:55:56,303 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sf.jopt-simple:jopt-simple:5.0.4
+2024-12-28 14:55:56,809 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 14:55:56,809 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 14:55:56,809 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 14:55:56,809 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 14:56:39,680 [Worker-38: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: API_Automation:API_Automation:0.0.1-SNAPSHOT @ D:\RestAssured_Project\API_Automation\pom.xml.
+2024-12-28 14:56:41,171 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact xml-apis:xml-apis:jar:2.0.2 has been relocated to xml-apis:xml-apis:jar:1.0.b2
+2024-12-28 14:56:41,548 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 14:56:41,550 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 14:56:41,552 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 14:56:41,553 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 14:56:43,252 [Worker-40: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact xml-apis:xml-apis:jar:2.0.2 has been relocated to xml-apis:xml-apis:jar:1.0.b2
+2024-12-28 14:56:43,543 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2-sources.jar
+2024-12-28 14:56:44,036 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2-sources.jar
+2024-12-28 14:56:44,060 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for xml-apis:xml-apis:1.0.b2
+2024-12-28 14:56:44,368 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 14:56:44,369 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 14:56:44,383 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 14:56:44,384 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 14:57:11,894 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 14:57:11,895 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 14:57:11,896 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 14:57:11,897 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 14:57:19,042 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 14:57:19,043 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-28 14:57:19,044 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 14:57:19,044 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 14:57:41,024 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 14:57:41,025 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-28 14:57:41,026 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 14:57:41,044 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 14:58:06,335 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 14:58:06,336 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-28 14:58:06,338 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 14:58:06,339 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 14:58:07,367 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 14:58:07,368 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-28 14:58:07,370 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 14:58:07,372 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 15:09:45,331 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 15:09:45,366 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-28 15:09:45,369 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 15:09:45,370 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 15:12:14,840 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 15:12:14,840 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-28 15:12:14,841 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 15:12:14,842 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 15:13:01,070 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 15:13:01,072 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-28 15:13:01,073 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 15:13:01,074 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 15:29:45,548 [Worker-43: Launching HTTPRequest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 15:29:45,549 [Worker-43: Launching HTTPRequest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-28 15:29:45,550 [Worker-43: Launching HTTPRequest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 15:29:45,551 [Worker-43: Launching HTTPRequest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 15:30:07,252 [Worker-57: Launching HTTPRequest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 15:30:07,253 [Worker-57: Launching HTTPRequest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-28 15:30:07,254 [Worker-57: Launching HTTPRequest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 15:30:07,255 [Worker-57: Launching HTTPRequest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 15:42:37,389 [Worker-61: Launching HTTPRequest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 15:42:37,390 [Worker-61: Launching HTTPRequest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-28 15:42:37,398 [Worker-61: Launching HTTPRequest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 15:42:37,399 [Worker-61: Launching HTTPRequest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 15:43:40,017 [Worker-63: Launching HTTPRequest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 15:43:40,018 [Worker-63: Launching HTTPRequest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-28 15:43:40,019 [Worker-63: Launching HTTPRequest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 15:43:40,021 [Worker-63: Launching HTTPRequest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 15:55:01,551 [Worker-67: Launching HTTPRequest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 15:55:01,553 [Worker-67: Launching HTTPRequest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-28 15:55:01,555 [Worker-67: Launching HTTPRequest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 15:55:01,559 [Worker-67: Launching HTTPRequest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 16:05:38,679 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 16:05:38,680 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-28 16:05:38,681 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 16:05:38,682 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 16:05:52,390 [Worker-73: Launching HTTPRequest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 16:05:52,391 [Worker-73: Launching HTTPRequest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-28 16:05:52,392 [Worker-73: Launching HTTPRequest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 16:05:52,393 [Worker-73: Launching HTTPRequest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 16:53:36,927 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 16:53:36,942 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-28 16:53:36,944 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 16:53:36,950 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 16:54:20,948 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 16:54:20,949 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-28 16:54:20,950 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 16:54:20,953 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-28 16:55:35,665 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 16:55:35,740 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-28 16:55:35,742 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-28 16:55:35,744 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-29 13:48:01,613 [Worker-89: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 13:48:01,721 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-29 13:48:01,722 [Worker-89: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 13:48:01,781 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-29 13:54:59,740 [Worker-88: Launching DifferentWaysToCreate_PostBody] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 13:55:00,097 [Worker-88: Launching DifferentWaysToCreate_PostBody] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-29 13:55:00,098 [Worker-88: Launching DifferentWaysToCreate_PostBody] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 13:55:00,099 [Worker-88: Launching DifferentWaysToCreate_PostBody] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-29 13:56:16,670 [Worker-93: Launching DifferentWaysToCreate_PostBody] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 13:56:16,671 [Worker-93: Launching DifferentWaysToCreate_PostBody] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-29 13:56:16,673 [Worker-93: Launching DifferentWaysToCreate_PostBody] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 13:56:16,674 [Worker-93: Launching DifferentWaysToCreate_PostBody] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-29 13:58:43,741 [Worker-88: Launching DifferentWaysToCreate_PostBody] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 13:58:43,743 [Worker-88: Launching DifferentWaysToCreate_PostBody] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-29 13:58:43,744 [Worker-88: Launching DifferentWaysToCreate_PostBody] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 13:58:43,745 [Worker-88: Launching DifferentWaysToCreate_PostBody] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-29 14:05:22,946 [Worker-91: Launching DifferentWaysToCreate_PostBody] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 14:05:22,948 [Worker-91: Launching DifferentWaysToCreate_PostBody] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-29 14:05:22,950 [Worker-91: Launching DifferentWaysToCreate_PostBody] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 14:05:22,951 [Worker-91: Launching DifferentWaysToCreate_PostBody] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-29 14:09:16,738 [Worker-95: Launching DifferentWaysToCreate_PostBody] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 14:09:16,739 [Worker-95: Launching DifferentWaysToCreate_PostBody] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-29 14:09:16,740 [Worker-95: Launching DifferentWaysToCreate_PostBody] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 14:09:16,741 [Worker-95: Launching DifferentWaysToCreate_PostBody] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-29 14:21:27,267 [Worker-103: Launching DifferentWaysToCreate_PostBody] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 14:21:27,302 [Worker-103: Launching DifferentWaysToCreate_PostBody] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-29 14:21:27,304 [Worker-103: Launching DifferentWaysToCreate_PostBody] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 14:21:27,305 [Worker-103: Launching DifferentWaysToCreate_PostBody] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-29 14:46:37,968 [Worker-102: Launching DifferentWaysToCreate_PostBody] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 14:46:37,970 [Worker-102: Launching DifferentWaysToCreate_PostBody] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-29 14:46:37,972 [Worker-102: Launching DifferentWaysToCreate_PostBody] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 14:46:37,973 [Worker-102: Launching DifferentWaysToCreate_PostBody] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-29 14:47:05,275 [Worker-115: Launching DifferentWaysToCreate_PostBody] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 14:47:05,620 [Worker-115: Launching DifferentWaysToCreate_PostBody] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-29 14:47:05,623 [Worker-115: Launching DifferentWaysToCreate_PostBody] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 14:47:05,625 [Worker-115: Launching DifferentWaysToCreate_PostBody] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-29 14:52:07,304 [Worker-112: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 14:52:07,478 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-29 14:52:07,479 [Worker-112: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 14:52:07,481 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-29 15:05:30,455 [Worker-116: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 15:05:30,457 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-29 15:05:30,459 [Worker-116: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 15:05:30,462 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-29 15:05:51,804 [Worker-121: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 15:05:51,805 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-29 15:05:51,808 [Worker-121: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 15:05:51,810 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-29 15:25:18,522 [Worker-125: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 15:25:18,524 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-29 15:25:18,526 [Worker-125: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 15:25:18,528 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-29 17:44:55,376 [Worker-132: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 17:44:55,453 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-29 17:44:55,457 [Worker-132: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 17:44:55,484 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-29 18:12:37,506 [Worker-131: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 18:12:37,538 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-29 18:12:37,540 [Worker-131: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 18:12:37,542 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-29 18:13:22,633 [Worker-133: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 18:13:22,633 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-29 18:13:22,636 [Worker-133: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 18:13:22,637 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-29 18:28:51,257 [Worker-141: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 18:28:51,258 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-29 18:28:51,259 [Worker-141: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 18:28:51,262 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-29 18:29:44,567 [Worker-138: Launching PathAndQueryparameters] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 18:29:44,586 [Worker-138: Launching PathAndQueryparameters] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-29 18:29:44,588 [Worker-138: Launching PathAndQueryparameters] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 18:29:44,590 [Worker-138: Launching PathAndQueryparameters] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-29 18:33:12,813 [Worker-142: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 18:33:12,816 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-29 18:33:12,817 [Worker-142: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 18:33:12,819 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-29 18:58:22,623 [Worker-146: Launching CoockiesDemo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 18:58:22,739 [Worker-146: Launching CoockiesDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-29 18:58:22,743 [Worker-146: Launching CoockiesDemo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-29 18:58:22,745 [Worker-146: Launching CoockiesDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

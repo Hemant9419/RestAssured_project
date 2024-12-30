@@ -1,0 +1,12 @@
+[
+  {
+    "user_name": "John Doe",
+    "location": "New York, USA",
+    "mobile_no": "+1-234-567-8901",
+    "courses": [
+      "Computer Science 101",
+      "Data Structures",
+      "Machine Learning"
+    ]
+  }
+]
