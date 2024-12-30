@@ -7,6 +7,8 @@ import static org.hamcrest.Matchers.equalTo;
 
 import org.testng.annotations.Test;
 
+import io.restassured.http.Header;
+import io.restassured.http.Headers;
 import io.restassured.response.Response;
 
 
@@ -24,8 +26,17 @@ public class HeaderDemo {
 		
 		//Get single header info
 		
-	String header_value=	res.getHeader("Content-Type");
-	System.out.println("the value of content type of header is"+ header_value);
+	//String header_value=	res.getHeader("Content-Type");
+	//System.out.println("the value of content type of header is"+ header_value);
+		
+		// get all header info
+		
+	Headers	myHeaders=res.getHeaders();
+	
+	for(Header hd:myHeaders) {
+		
+		System.out.println(hd.getName()+"     "+hd.getValue());
+	}
 		
 	}
 	
