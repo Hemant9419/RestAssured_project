@@ -317,3 +317,13 @@
 2024-12-29 18:58:22,739 [Worker-146: Launching CoockiesDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
 2024-12-29 18:58:22,743 [Worker-146: Launching CoockiesDemo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2024-12-29 18:58:22,745 [Worker-146: Launching CoockiesDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-30 13:02:27,431 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-12-30 13:02:36,211 [Worker-11: Launching CoockiesDemo] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact xml-apis:xml-apis:jar:2.0.2 has been relocated to xml-apis:xml-apis:jar:1.0.b2
+2024-12-30 13:02:39,505 [Worker-11: Launching CoockiesDemo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-30 13:02:39,507 [Worker-11: Launching CoockiesDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-30 13:02:39,514 [Worker-11: Launching CoockiesDemo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-30 13:02:39,531 [Worker-11: Launching CoockiesDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-30 13:07:58,273 [Worker-1: Launching CoockiesDemo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-30 13:07:58,275 [Worker-1: Launching CoockiesDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\RestAssured_Project\API_Automation\src\main\resources
+2024-12-30 13:07:58,278 [Worker-1: Launching CoockiesDemo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-30 13:07:58,332 [Worker-1: Launching CoockiesDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
